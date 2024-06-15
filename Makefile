@@ -1,4 +1,4 @@
-objects := main.o 
+objects := main.o libpix.o libpixnet.o
 CC := cc
 CLAGS := -Wall
 INCLUDES := 
